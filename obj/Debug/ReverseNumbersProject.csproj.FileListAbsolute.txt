@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\ReverseNumbersProject\bin\Debug\ReverseNumbersProject.exe.config
+C:\Users\PC\source\repos\ReverseNumbersProject\bin\Debug\ReverseNumbersProject.exe
+C:\Users\PC\source\repos\ReverseNumbersProject\bin\Debug\ReverseNumbersProject.pdb
+C:\Users\PC\source\repos\ReverseNumbersProject\obj\Debug\ReverseNumbersProject.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ReverseNumbersProject\obj\Debug\ReverseNumbersProject.Form1.resources
+C:\Users\PC\source\repos\ReverseNumbersProject\obj\Debug\ReverseNumbersProject.Properties.Resources.resources
+C:\Users\PC\source\repos\ReverseNumbersProject\obj\Debug\ReverseNumbersProject.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\ReverseNumbersProject\obj\Debug\ReverseNumbersProject.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ReverseNumbersProject\obj\Debug\ReverseNumbersProject.exe
+C:\Users\PC\source\repos\ReverseNumbersProject\obj\Debug\ReverseNumbersProject.pdb
